@@ -1,6 +1,6 @@
-# TopHackpad – 10-Key Macro Pad
+# Falit'sHackpad – 10-Key Macro Pad
 
-TopHackpad is a custom 10-key macro pad built using a XIAO RP2040 DIP board.
+Falit's Hackpad is a custom 10-key macro pad built using a XIAO RP2040 DIP board.
 It uses KMK firmware (CircuitPython) and is designed for productivity shortcuts like launching apps, switching desktops, and system controls.
 
 ---
